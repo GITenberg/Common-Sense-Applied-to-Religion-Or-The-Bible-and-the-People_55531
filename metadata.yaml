@@ -1,0 +1,30 @@
+_repo: Common-Sense-Applied-to-Religion-Or-The-Bible-and-the-People_55531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beecher, Catharine Esther
+    aliases:
+    - Beecher, Catherine E. (Catherine Esther)
+    - Beecher, C. E. (Catherine Esther)
+    - Beecher, Catharine E.
+    birthdate: 1800
+    deathdate: 1878
+    gutenberg_agent_id: '2109'
+    url: http://www.gutenberg.org/2009/agents/2109
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Beecher
+description: ''
+gutenberg_issued: '2017-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55531'
+  lccn: '30011309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religion -- Philosophy'
+- GITenberg
+title: Common Sense Applied to Religion; Or, The Bible and the People
+url: http://www.gutenberg.org/ebooks/55531
